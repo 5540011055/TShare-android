@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">T Share</string>
+    <string name="title_name">ทีแชร์</string>
+    <string name="exit">คุณต้องการออกจากระบบหรือไม่</string>
+    <string name="titleExit">ออกจากระบบ</string>
+    <string name="yes">ใช่</string>
+    <string name="no">ไม่ใช่</string>
+    <string name="menu_title_share">แชร์</string>
+    <string name="menu_title_email">Email us</string>
+
+    <string name="text_launch_custom_tab">เข้าสู่ระบบ</string>
+    <string name="text_exit_custom_tab">ออกจากระบบ</string>
+
+    <string name="text_toolbar_colored">Toolbar colored</string>
+    <string name="text_title_displayed">Title displayed</string>
+    <string name="text_back_arrow_displayed">Back Arrow displayed</string>
+    <string name="text_actionbar_icon_displayed">Actionbar icon</string>
+    <string name="text_menu_items_displayed">Menu items</string>
+    <string name="text_custom_animations">Custom animations</string>
+
+</resources>
